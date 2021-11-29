@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="title_activity_splash">Splash_Activity</string>
+
+    <string name="Splash_Next"><u>Next</u></string>
+
+
+    <string name="CompleteInformationActivity"> Complete Your Information</string>
+    <string name="Gender">Gender</string>
+    <string name="Weight">Weight</string>
+    <string name="Length">Length</string>
+    <string name="dateofbirth">DateOfBirth</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="New_Record">New Record</string>
+
+</resources>
